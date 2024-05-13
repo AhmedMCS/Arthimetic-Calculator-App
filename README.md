@@ -14,7 +14,6 @@ The Arithmetic Calculator App is a simple calculator application built using the
 - [Examples](#examples)
 - [Troubleshooting](#troubleshooting)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Installation
 To install and run the Arithmetic Calculator App, follow these steps:
@@ -65,5 +64,3 @@ python Calculator.py
 ## Contributors
 - AhmedMCS - [GitHub Profile](https://github.com/AhmedMCS)
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
